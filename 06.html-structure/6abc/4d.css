@@ -1,0 +1,39 @@
+.bootstrap-start-btn {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 6px;
+  transition: background-color 0.15s;
+}
+
+.bootstrap-start-btn:hover {
+  background-color: rgb(99, 60, 156);
+}
+
+.bootstrap-download-btn {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 17px;
+  padding-right: 17px;
+  border-color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.bootstrap-download-btn:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}

@@ -1,0 +1,21 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  margin-bottom: 20px;
+}
+
+.learn-mmore {
+  color: rgb(58, 108, 199);
+}
